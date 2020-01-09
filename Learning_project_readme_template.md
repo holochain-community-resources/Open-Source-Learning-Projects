@@ -9,7 +9,8 @@ Why is this an interesting application? What does the application do? How are pe
 (Game, Education, Sharing, Local Organizing...)
 
 # Difficulty
-Scale from easy to hard (red -> violet?)
+![difficulty](https://raw.githubusercontent.com/holochain-community-resources/Open-Source-Learning-Projects/master/difficulty.png)
+Scale from easy to hard, Red
 
 # Design documents
 
