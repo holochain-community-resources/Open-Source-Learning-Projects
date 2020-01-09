@@ -3,6 +3,15 @@ A collection of projects that devs that become interested in Holochain can engag
 
 As developers come to meetups or are just getting interested in Holochain, we would like to supply them with a possibility to engage with code in order to learn, while also being introduced to the community and creating useful open source software.
 
+## Next steps
+- community meeting on how to manage open learning projects
+  - who wants do design?
+  - how do we manage repos? Merging etc. Supporting 
+  - does every app need a steward? Contact? 
+  
+- design applications for open source learning (super detailed documentation)
+- 
+
 ## Projects
 - [hUdemy](https://hackmd.io/V9RbP1jdRxKBosaOXen7ZA)
 - [MailBoox](https://github.com/zaunders/MailBoox-SymCode)
