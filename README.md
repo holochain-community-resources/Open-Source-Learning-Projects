@@ -4,7 +4,7 @@ A collection of projects that devs that become interested in Holochain can engag
 As developers come to meetups or are just getting interested in Holochain, we would like to supply them with a possibility to engage with code in order to learn, while also being introduced to the community and creating useful open source software.
 
 ## Projects
-- hUdemy
+- [hUdemy](https://hackmd.io/V9RbP1jdRxKBosaOXen7ZA)
 - [MailBoox](https://github.com/zaunders/MailBoox-SymCode)
 - DinnerCarousel (repo coming from [design](https://hackmd.io/@zaunders/BJv-OY0D7))
 - Battleship (set up repo for updating from Go) [old repo](https://github.com/willemolding/holochain-battleship)  
