@@ -13,7 +13,7 @@ As developers come to meetups or are just getting interested in Holochain, we wo
 - 
 
 ## Projects
-- [hUdemy](https://hackmd.io/V9RbP1jdRxKBosaOXen7ZA)
+- [LeaP - Learning Pathways](https://github.com/holochain-devcamp/learning-pathways)
 - [MailBoox](https://github.com/zaunders/MailBoox-SymCode)
 - DinnerCarousel (repo coming from [design](https://hackmd.io/@zaunders/BJv-OY0D7))
 - Battleship (set up repo for updating from Go) [old repo](https://github.com/willemolding/holochain-battleship) 
