@@ -17,7 +17,7 @@ As developers come to meetups or are just getting interested in Holochain, we wo
 - [MailBoox](https://github.com/zaunders/MailBoox-SymCode)
 - DinnerCarousel (repo coming from [design](https://hackmd.io/@zaunders/BJv-OY0D7))
 - Battleship (set up repo for updating from Go) [old repo](https://github.com/willemolding/holochain-battleship) 
-- [PasswordManager](https://github.com/ronin-of-beyonder/holomasterpass)
+- [HoloMasterPass](https://github.com/ronin-of-beyonder/holomasterpass)
 
 
 # Repo readme template 
