@@ -18,6 +18,7 @@ As developers come to meetups or are just getting interested in Holochain, we wo
 - DinnerCarousel (repo coming from [design](https://hackmd.io/@zaunders/BJv-OY0D7))
 - Battleship (set up repo for updating from Go) [old repo](https://github.com/willemolding/holochain-battleship) 
 - [HoloMasterPass](https://github.com/ronin-of-beyonder/holomasterpass)
+- [Coalesce - an event and booking hApp](https://hackmd.io/@holochain-community-designs/S1oepIkBU)
 
 
 # Repo readme template 
